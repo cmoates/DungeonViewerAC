@@ -18,3 +18,6 @@ The code was originally written prior to 2004 and has been partially updated to 
 # For developers
 The PRE_TOD define located in StdAfx.h determines whether the build is for old (not Throne of Destiny) or new (Throne of Destiny.) The define is used throughout the application in various spots where the data formats may have changed.
 
+# Side note
+
+I, Chris Moates, went by the name NNTP and Airor in the old Asheron's Call days. I believe this is the modernized version of the original Dungeon Viewer code that I wrote back in 04'ish. I'm happy to see that it has been preserved.
